@@ -261,7 +261,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    height:1200px;
+    height:800px;
     background-image: url(../img/header-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
@@ -319,6 +319,12 @@ header .intro-text .intro-heading {
         font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
         text-transform: uppercase;
         font-weight: 700;
+        font-size: 80px;
+        line-height: 40px;
+    }
+    header .intro-heading-welcome{
+        font-family: Brush Script MT, Brush Script Std, cursive;
+        font-weight: 100;
         font-size: 80px;
         line-height: 40px;
     }
