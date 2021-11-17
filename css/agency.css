@@ -17,11 +17,11 @@ p {
 }
 
 p.large {
-    font-size: 16px
+    font-size: 19px
 }
 
 ul.large {
-    font-size: 16px;
+    font-size: 19px;
     line-height: 1.75;
 }
 
@@ -261,7 +261,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    height:800px;
+    height:600px;
     background-image: url(../img/header-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
@@ -294,7 +294,7 @@ header .intro-text .intro-heading {
     line-height: 20px;
     margin-bottom: 20px
 }
-
+ 
 @media (min-width:500px) {
     header .intro-text {
         padding-top: 130px;
